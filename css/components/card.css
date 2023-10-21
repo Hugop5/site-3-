@@ -1,0 +1,27 @@
+.cartes {
+  affichage : flex ;
+  flex-wrap : wrap ;
+}
+
+.carte {
+  rembourrage : 20px ;
+  affichage : flex ;
+  éléments d'alignement : centre ;
+  justifier-contenu : espace-entre ;
+  box-shadow : 0px 10px 30px rgba(0,0,0,0.2) ;
+  rayon de bordure : 6px ;
+  marge : 20px 10px ;
+  base flexible : 240px ;
+  flex-grow : 1 ;
+}
+
+.carte img {
+  largeur : 150px ;
+  rayon de bordure : 6px ;
+}
+
+.carte h3 {
+  flex-grow : 1 ;
+  rembourrage-gauche : 20px ;
+  taille de la police : 24px ;
+}
