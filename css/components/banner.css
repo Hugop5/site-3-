@@ -1,0 +1,16 @@
+bannière {
+  image de fond : gradient linéaire(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url(.. /../images/background.jpeg) ;
+  couleur : blanc ;
+  rembourrage : 120px 0px ;
+  taille de l'arrière-plan : couverture ;
+  position de fond : centre ;
+}
+.bannière h1 {
+  taille de la police : 50px ;
+}
+.bannière h2 {
+  taille de la police : 30px ;
+  poids de la police : plus léger ;
+  opacité : 0,8 ;
+  marge inférieure : 40px ;
+}
